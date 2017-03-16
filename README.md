@@ -8,4 +8,6 @@ https://github.com/mozilla/geckodriver/releases
 
 After downloading 'Geckodriver', make sure the FacebookAUtoLogin.py + Geckodriver.exe are in the same folder
 
+Don't forget to install the required modules
+
 Try it, Upgrade it :)
